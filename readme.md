@@ -7,7 +7,7 @@ The Contact Center app is a custom ServiceNowapp that allows you to run one or m
 
 ## 1. Installation
 
-Download and install the [XML Update Set](/assets/voice2me%20-%20Contact%20Center%204-23-2025.xml.zip).
+Download and install the [XML Update Set](/assets/voice2me%20-%20Contact%20Center%204-23-2025.xml.zip){:download}.
 
 ## 2. Register Agents and Queues
 
