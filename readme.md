@@ -1,6 +1,6 @@
 # SeviceNow Contact Center
 
-The Contact Center app is a custom ServiceNowapp that allows you to run one or multiple contact centers on ServiceNow.
+The Contact Center app is a custom ServiceNow app that allows you to run one or multiple contact centers on ServiceNow.
 
 ![Contact Center App](./assets/dashboard.png)
 **IMPORTANT**: This version is intended for testing purposes only. You can run it on your own ServiceNow instance and/or PDI. By downloading and using the app and/or code of this repository, you agree to the following [privacy policy and terms and conditions](https://app.service24x7.ai/privacy-policy-terms.html)
